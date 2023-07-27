@@ -3,7 +3,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://marekdenko.net/3dgallery/heh/HerEventualHesitation_fullres_signed.jpg)">
  <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://marekdenko.net/3dgallery/heh/HerEventualHesitation_fullres_signed.jpg)">
- <img alt="YOUR-ALT-TEXT" src="[YOUR-DEFAULT-IMAGE](https://marekdenko.net/3dgallery/heh/HerEventualHesitation_fullres_signed.jpg)">
+ <img alt="YOUR-ALT-TEXT" src="[YOUR-DEFAULT-IMAGE](lonely_town.jpg)">
 </picture>
 
 
