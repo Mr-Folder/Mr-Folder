@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text](https://marekdenko.net/3dgallery/heh/HerEventualHesitation_fullres_signed.jpg)
+![alt text](https://github.com/mr-folder/mr-folder/blob/main/lonely_town.jpg?raw=true)
 
 
 https://marekdenko.net/3dgallery/heh/HerEventualHesitation_fullres_signed.jpg
