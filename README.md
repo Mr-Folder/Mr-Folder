@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-![alt text](https://github.com/mr-folder/mr-folder/blob/main/lonely_town.jpg?raw=true)
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://marekdenko.net/3dgallery/heh/HerEventualHesitation_fullres_signed.jpg)">
+ <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://marekdenko.net/3dgallery/heh/HerEventualHesitation_fullres_signed.jpg)">
+ <img alt="YOUR-ALT-TEXT" src="[YOUR-DEFAULT-IMAGE](https://marekdenko.net/3dgallery/heh/HerEventualHesitation_fullres_signed.jpg)">
+</picture>
+
 
 
 https://marekdenko.net/3dgallery/heh/HerEventualHesitation_fullres_signed.jpg
