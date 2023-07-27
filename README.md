@@ -5,6 +5,8 @@
 👋 My name is Leonard, I am a 23 Network & security student at EFREI | DevOps Aprentice at Thales.
 
 📍 I am currently living in Paris, France.
+
+🛡️ I am keenly interested in Cybersecurity, Cloud Infrastructure and Network Engineering
 <!--
 **Mr-Folder/Mr-Folder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
