@@ -1,18 +1,12 @@
 ### Hi there 👋
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://marekdenko.net/3dgallery/heh/HerEventualHesitation_fullres_signed.jpg)">
- <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://marekdenko.net/3dgallery/heh/HerEventualHesitation_fullres_signed.jpg)">
- <img alt="YOUR-ALT-TEXT" src="[YOUR-DEFAULT-IMAGE](lonely_town.jpg)">
-</picture>
+![Lonely Town](https://marekdenko.net/3dgallery/heh/HerEventualHesitation_fullres_signed.jpg)
 
-
-
-https://marekdenko.net/3dgallery/heh/HerEventualHesitation_fullres_signed.jpg
 <!--
 **Mr-Folder/Mr-Folder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
