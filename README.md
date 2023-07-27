@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmarekdenko.net%2F%3Fpage_id%3D206&psig=AOvVaw2zNee7wKwPF8Z_ETJlNiva&ust=1690558705548000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCh2Yqcr4ADFQAAAAAdAAAAABAJ)
+
 <!--
 **Mr-Folder/Mr-Folder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
