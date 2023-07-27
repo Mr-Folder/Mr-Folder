@@ -1,6 +1,14 @@
 ![Lonely Town](https://www.ronenbekerman.com/wp-content/uploads/2017/03/HerEventualHesitation_fullres_cropped.jpg)
 
 <h1 align=center>Hello, I am Mr Folder 🦝</h1>
+
+👋 My name is Leonard, I am a Network & security student at EFREI | DevOps Aprentice at Thales.
+📍 I am currently living in Paris, France.
+
+
+wave My name is Liam, I am a part-time Software Developer and ex-Engineering apprentice living in France.
+
+mortar_board I'm currently studying Mandarin Chinese (官話)
 <!--
 **Mr-Folder/Mr-Folder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
